@@ -1,0 +1,5 @@
+#!/usr/bin/env ruby
+
+require 'pry_switch/cli'
+PrySwitch::CLI.start
+
